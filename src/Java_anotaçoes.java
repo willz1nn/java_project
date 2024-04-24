@@ -4,7 +4,7 @@ public class Java_anotaçoes {
 
 
     public static void main(String[] args) {
-        String nome = "Julia";
+        String nome = "Willian";
         double meta = 1000;
         double vendas = 5000;
 
